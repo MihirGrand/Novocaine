@@ -2,7 +2,7 @@
 
 <p align="center">Minimal Rainmeter Suite</p>
 
-![Novacaine](https://github.com/MihirGrand/Novacaine/blob/main/Novocaine.png?raw=true)
+![Novacaine](https://github.com/MihirGrand/Novacaine/blob/main/Novacaine.png?raw=true)
 
 <h3>Special mention -</h3>
 
